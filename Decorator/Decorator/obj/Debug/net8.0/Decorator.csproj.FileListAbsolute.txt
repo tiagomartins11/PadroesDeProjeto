@@ -1,0 +1,14 @@
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\bin\Debug\net8.0\Decorator.exe
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\bin\Debug\net8.0\Decorator.deps.json
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\bin\Debug\net8.0\Decorator.dll
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\bin\Debug\net8.0\Decorator.pdb
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\Decorator.dll
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\Decorator.pdb
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+C:\Users\tiago\source\PadroesProjeto\Decorator\Decorator\obj\Debug\net8.0\ref\Decorator.dll
