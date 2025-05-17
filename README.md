@@ -1,5 +1,5 @@
 # PadroesDeProjeto
-observação: tive ajuda do chat. Na aula eu não tinha entendido muito bem. Mas após peaquisar sobre, vi que esses pradões são muito importantes e podem facilitar muuito no dia a dia.
+observação: tive ajuda do chat. Na aula eu não tinha entendido muito bem. Mas após pesquisar sobre, vi que esses pradões são muito importantes e podem ajudar muuito no dia a dia.
 
 Sobre de decorators:
 Os decorators (MensagemComNegrito, MensagemComItalico) adicionam funcionalidades sem alterar a classe original.
